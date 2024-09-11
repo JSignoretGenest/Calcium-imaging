@@ -7,7 +7,4 @@ Set of functions to preprocess, visualize, and analyze Calcium Imaging data from
 
 ## Explore_Longitudinal_Alignment
 *GUI to display the footprints from CellReg-aligned sessions to explore and validate alignment*
-<video width="640" height="360" controls>
-  <source src="./Explore_Longitudinal_Alignment/Explore_Longitudinal_Alignment.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/JSignoretGenest/Calcium-imaging/blob/3e107626d32c7b57e3aa2c9eafca586493f67a2d/Explore_Longitudinal_Alignment/Explore_Longitudinal_Alignment.mp4
