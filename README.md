@@ -7,3 +7,5 @@ Set of functions to preprocess, visualize, and analyze Calcium Imaging data from
 
 ## Explore_Longitudinal_Alignment
 *GUI to display the footprints from CellReg-aligned sessions to explore and validate alignment*
+https://github.com/user-attachments/assets/ba67504c-204e-4760-a813-c45efd0e9d88
+
