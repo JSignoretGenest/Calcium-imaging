@@ -10,5 +10,9 @@ Set of functions to preprocess, visualize, and analyze Calcium Imaging data from
 
 
 
-[Watch the video](https://github.com/user-attachments/assets/8e4369ce-80a2-4c71-a583-3e4d6572fb43)
+[Watch the video](https://github.com/user-attachments/assets/dc209aa9-9ce4-4e75-83e7-d6bef64fa050)
+
+
+
+
 
