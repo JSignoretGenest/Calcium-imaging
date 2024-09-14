@@ -7,7 +7,12 @@ Main function for (GUI-based) preprocessing.
 
 ## Explore_Longitudinal_Alignment
 GUI to display the footprints from CellReg-aligned sessions to explore and validate alignment.  
-https://github.com/user-attachments/assets/05e842ca-742a-44dd-b9be-c9fb998db83e
+
+
+
+
+
+https://github.com/user-attachments/assets/d74fc152-234f-4d52-890b-22deb6f5602e
 
 
 
