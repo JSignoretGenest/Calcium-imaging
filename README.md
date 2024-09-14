@@ -2,7 +2,7 @@
 Set of functions to preprocess, visualize, and analyze Calcium Imaging data from Inscopix or open miniscope systems.
 
 ## CalciumImaging_Pipeline
-Main function for (GUI-based) preprocessing.
+Main function for (GUI-based) preprocessing.  
 *Performs downsampling, filtering, non-rigid motion correction (NoRMCorre), signal extractions (CNMFe), manual post-processing.*
 
 ## Explore_Longitudinal_Alignment
